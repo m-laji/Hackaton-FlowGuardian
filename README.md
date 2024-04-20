@@ -9,3 +9,14 @@ Initially, responses will be compared against a baseline derived from healthy in
 Initially, we will release a complimentary version of this service in underdeveloped countries to maximize accessibility. Plans are in place to refine the service by incorporating follow-up questions for detected anomalies, thereby optimizing the efficiency of medical consultations. Furthermore, we will expand the scope to include additional multimodal data points, such as abdominal pain symptoms. Our long-term vision involves providing this service free of charge in regions with low socioeconomic status before introducing an enhanced, paid version in more developed health systems.
 
 The models requires further validation since they during the hackathon been evaluated on generated patient data.
+
+
+Plan:
+
+* UX Design: Develop a user interface that is intuitive and easy to navigate for all users.
+* Questionnaire Development: Formalize and design the questions in the questionnaire to ensure clarity and effectiveness.
+* Data Collection and Validation: Gather real-life data to validate the effectiveness of the models.
+
+Future Plans:
+
+* Multimodality: Expand the app's capabilities to include multiple modes of interaction and data integration.
