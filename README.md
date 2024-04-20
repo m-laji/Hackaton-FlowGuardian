@@ -14,8 +14,9 @@ The models requires further validation since they during the hackathon been eval
 Plan:
 
 * UX Design: Develop a user interface that is intuitive and easy to navigate for all users.
-* Questionnaire Development: Formalize and design the questions in the questionnaire to ensure clarity and effectiveness.
+* Questionnaire Development: Formalize and design the questions in the questionnaire to ensure clarity and effectiveness
 * Data Collection and Validation: Gather real-life data to validate the effectiveness of the models.
+* Adjust for local/cultural differences
 
 Future Plans:
 
